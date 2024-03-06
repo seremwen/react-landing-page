@@ -44,8 +44,8 @@ const NavBar = () => {
             
             <ul class="navbar-nav ml-auto align-items-center">
                 <li class="nav-item mr-0">
-                    <a href="#https://themes.getbootstrap.com/product/hyper-responsive-admin-dashboard-template/" target="_blank" class="nav-link d-lg-none">Purchase now</a>
-                    <a href="#https://themes.getbootstrap.com/product/hyper-responsive-admin-dashboard-template/" target="_blank" class="btn btn-sm btn-light btn-rounded d-none d-lg-inline-flex">
+                    <a href="#" target="_blank" class="nav-link d-lg-none">Purchase now</a>
+                    <a href="#" target="_blank" class="btn btn-sm btn-light btn-rounded d-none d-lg-inline-flex">
                         <i class="mdi mdi-basket mr-2"></i> Buy Now
                     </a>
                 </li>
